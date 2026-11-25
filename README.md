@@ -1,5 +1,7 @@
 # One Line, One Laugh
 
+Entry note: the coach quit after one session and now uses the narrator's story as a warning in his seminars — the punch lands in the final clause.
+
 A deterministic Python entry for the [One Line, One Laugh](https://make.fun/bounty/u-plucky-finch-20-one-line-one-laugh-0ffe66ea) competition on make.fun. The program writes the entry text to `entry.txt`, with no trailing newline. The readable source is `entry_source.py`; `main.py` is the official make.fun compress output of that source.
 
 ## Running
